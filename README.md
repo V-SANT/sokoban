@@ -1,7 +1,7 @@
 # Sokoban
 
 ## Descripción
-Sokoban es un juego de lógica en el que el jugador debe empujar cajas para colocarlas en una posición determinada marcada en el mapa. El jugador puede moverse en las cuatro direcciones cardinales, pero no puede atravesar paredes ni cajas. Tampoco se puede empujar dos cajas a la vez. El juego termina cuando todas las cajas están en su posición final.
+Sokoban es un juego de lógica en el que el jugador debe empujar cajas para colocarlas en una posición determinada marcada en el mapa. El jugador puede moverse en las cuatro direcciones cardinales, pero no puede atravesar paredes ni cajas. Tampoco se puede empujar dos cajas a la vez. El juego tiene distintos niveles. Para pasar al siguiente nivel, se deben colocar todas las cajas en su posición final.
 
 Esta implementación permite deshacer movimientos utilizando la tecla "p" y reiniciar el nivel con la tecla "r". 
 
